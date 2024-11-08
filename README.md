@@ -9,7 +9,7 @@ Python Flask
 
 Javascript
 # Features 
-Admin module-Manage staff,dietician and hospital listand monitor user data.
+Admin module-Manage staff,dietician and hospital list and monitor user data.
 
 Staff module-Manage medicine stock.
 
