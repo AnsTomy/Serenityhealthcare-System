@@ -1,0 +1,6 @@
+Bill Information:
+
+Medicine Name	Quantity	Unit Price
+10	2
+
+Total Amount: 2000.0
