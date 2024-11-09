@@ -17,8 +17,8 @@ Dietician module-Provide diet plans to patients.
 
 User module-Can purchase medicine from shopping cart,search for hospitals,get diet plans from dieticians and can select caretakers or babysitters.
 # Screenshots
-![IMG-20240506-WA0146](https://github.com/AnsTomy/Healthcare/assets/169869597/9c0b311d-8636-48b9-8d9f-3161cc11c9f7)
-![IMG-20240423-WA0013](https://github.com/AnsTomy/Healthcare/assets/169869597/1f9babe2-d3f3-4a56-bde0-db4299e1adf1)
-![IMG-20240506-WA0139](https://github.com/AnsTomy/Healthcare/assets/169869597/4ede212f-034b-46e5-a4d9-41405b439796)
-![IMG-20240506-WA0141](https://github.com/AnsTomy/Healthcare/assets/169869597/f21d8e11-6441-4a41-8c95-238d54d327e2)
-![IMG-20240506-WA0144](https://github.com/AnsTomy/Healthcare/assets/169869597/b22eab0c-0449-4938-8b05-3185bd565d8a)
+![hoser](https://github.com/user-attachments/assets/74226daa-5e1d-4713-8c83-85716eed7f4c)
+
+![2pic](https://github.com/user-attachments/assets/a69d13c6-8562-4d6b-957a-a348810c09a9)
+![3pic](https://github.com/user-attachments/assets/da567235-04fa-4c73-abef-43a8f9b2d2e2)
+![4p](https://github.com/user-attachments/assets/472c3aca-b2b3-43b9-b5d5-9b4d10da56aa)
